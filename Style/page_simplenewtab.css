@@ -1,0 +1,24 @@
+﻿body {
+    background-color:#af9270;
+}
+img {
+    border-radius: 30px;
+    
+}
+h1, h2, h3, h4, h5, h6 {
+
+    color:#ffffff;
+    font-family:Berlin Sans FB Demibold;
+    text-align: center;
+
+}
+p {
+    color:#ffffff;
+    font-family:Berlin Sans FB;
+    text-align: center;
+}
+
+#searchbox {
+    text-align: center;
+    width:100%;
+}

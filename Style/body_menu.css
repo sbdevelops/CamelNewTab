@@ -1,0 +1,6 @@
+﻿body {
+    min-width:300px;
+    max-width:300px;
+    min-height:250px;
+    background-image:url("Assets/Background_Rainbow.png");
+}
